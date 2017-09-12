@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Account" />
+            <option value="$PROJECT_DIR$/Account/project" />
+            <option value="$PROJECT_DIR$/apiResources" />
+            <option value="$PROJECT_DIR$/apiResources/project" />
+            <option value="$PROJECT_DIR$/checkoutServices" />
+            <option value="$PROJECT_DIR$/checkoutServices/project" />
+            <option value="$PROJECT_DIR$/dashboard" />
+            <option value="$PROJECT_DIR$/dashboard/project" />
+            <option value="$PROJECT_DIR$/inventory" />
+            <option value="$PROJECT_DIR$/inventory/project" />
+            <option value="$PROJECT_DIR$/notification" />
+            <option value="$PROJECT_DIR$/notification/project" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.16" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
